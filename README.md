@@ -94,6 +94,7 @@
   - Композия вместо наследования   
 
 
-###
-Источники: 
+### Источники: 
   - https://habr.com/ru/post/276593/
+  - http://www.skipy.ru/architecture/module_design.html#principles
+  
