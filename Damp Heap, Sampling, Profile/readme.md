@@ -5,6 +5,6 @@ dev:
 
 prod:
   profiling sampling:
-    Visual VM remote
-	Spring AOP profiler aspect
-	Свой сэмплер
+    Все приложение:      Visual VM remote
+	Определенный модуль: Spring AOP profiler aspect
+	Определенный модуль: Свой сэмплер
